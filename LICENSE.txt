@@ -1,0 +1,46 @@
+LICENSE AGREEMENT
+
+Copyright (c) 2025 [Your Name or Handle]. All rights reserved.
+
+This License Agreement ("Agreement") governs the use of the executable software files provided by the Author, including but not limited to .exe and .jar files (hereafter referred to as "the Software"). By downloading, running, copying, or redistributing the Software, you agree to the following terms:
+
+1. Permission to Use
+
+You are granted permission to download, install, and run the Software for personal, educational, or commercial purposes, subject to the restrictions below.
+
+2. Redistribution
+
+You may redistribute the Software, provided that all of the following conditions are met:
+
+Visible Attribution: Clear and visible credit must be given to the original author, [Your Name/Handle].
+
+Definition of Visible Credit:
+
+For graphical applications, attribution must appear in a location reasonably accessible to the end user, such as an "About" window, splash screen, footer, or help/about menu.
+
+For console or command-line applications, attribution must be displayed in the startup banner, help text, or version information output.
+
+For redistributions via a website, store, or package manager, attribution must be included both in the description of the Software and in any associated documentation.
+
+Attribution hidden solely within a license file, README, or source package does not qualify as visible credit.
+
+3. Modification
+
+You may modify the Software for personal use. Redistribution of modified versions is permitted only if:
+
+All conditions in Section 2 are met, and
+
+Clear indication is given that the Software has been modified, while still crediting the original author.
+
+4. Reverse Engineering
+
+You may not reverse-engineer, decompile, disassemble, or otherwise attempt to derive the source code, structure, or algorithms of the Software. Attempts to circumvent obfuscation, encryption, or protection mechanisms are strictly prohibited.
+
+5. No Warranty
+
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+In no event shall the Author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from or in connection with the Software.
+
+6. Termination
+
+Any violation of this Agreement will result in the immediate termination of your rights under this license. Upon termination, you must cease all use and distribution of the Software.
