@@ -21,23 +21,6 @@ Unzip the file and run the appropriate version for your system.
 
 ## 🎥 How to Install & Use
 
-A step-by-step video tutorial is available here:  
-👉 [Watch on YouTube](YOUTUBE_LINK_HERE)
-
-(*Replace `YOUTUBE_LINK_HERE` with the actual video link once available.*)
+Upload the jar, executable and auth into %appdata%/.minecraft/mods
 
 ---
-
-## 📜 License
-
-This software is distributed under a custom license.  
-- Visible credit to the author **must** be displayed in any redistribution.  
-- Reverse engineering, decompilation, or disassembly is prohibited.  
-- See [LICENSE.txt](./LICENSE.txt) for full details.  
-
----
-
-## ⚠️ Disclaimer
-
-This software is provided **"as is"**, without warranty of any kind.  
-Use at your own risk.
